@@ -10,10 +10,10 @@ A Three.js shader art experiment
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/gthnmp/threejs-shader-art2.git
+git clone https://github.com/gthnmp/threejs-shader-art3.git
 
 # Change directory
-cd threejs-shader-art2
+cd threejs-shader-art3
 
 # Install dependencies
 npm install
